@@ -1,2 +1,2 @@
 # Applied-Machine-Learning-in-Python-Coursera
-This project includes the solutions for each weeks assignments.
+Includes the solutions for each weeks assignments.
